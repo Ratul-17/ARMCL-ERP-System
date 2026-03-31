@@ -1,0 +1,490 @@
+date,unit,client_name,project_address,lat,lng,psi,qty_m3,qty_cft,pump_status
+3/1/2026,Fujian Xinda Plant,Creative Builders Ltd,"Panthapath, Dhanmondi",23.752665,90.387028,4000,115.02,4061.93,No
+3/1/2026,Fujian Xinda Plant,Homelink Real Estate Ltd. (Project-14),"Bosila, Dhaka.",23.719455,90.350757,6000,18.25,644.5,Yes
+3/1/2026,Fujian Xinda Plant,Humayun Rashid Real Estate Ltd,Bashundhara,23.814453,90.43446,5000,76.93,2716.78,Yes
+3/1/2026,Fujian Xinda Plant,M/S. S. LOVLU ENTERPRISE,"Khagan, Ashulia",23.881447,90.281586,4000,8.83,311.83,Yes
+3/1/2026,Fujian Xinda Plant,Mohammad Riaz,Uttara,23.876705,90.380546,3500,5.73,202.35,No
+3/1/2026,Fujian Xinda Plant,Oasis Enterprise,"ECB Chattar, Dhaka Cantonment",23.797896,90.392415,5800,67.26,2375.29,Yes
+3/1/2026,Fujian Xinda Plant,Orchid and Textile Tower,Ashulia,23.90973,90.264536,6000,88.64,3130.32,Yes
+3/1/2026,Fujian Xinda Plant,Radisson Creations LTD,Tongi,23.893699,90.40515,4000,9.54,336.91,No
+3/1/2026,Schwing Stetter Plant, Rangs Properties Ltd.,Farmgate,23.855172,90.356873,4350,13.8,487.35,Yes
+3/1/2026,Schwing Stetter Plant,Arif Ashraf,Uttara,23.871532,90.378315,4350,116,4096.54,Yes
+3/1/2026,Schwing Stetter Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.910928,90.268084,3500,49.91,1762.57,Yes
+3/1/2026,Schwing Stetter Plant,Bondhon Nibash,Dieabari,23.851861,90.355011,4350,38.86,1372.34,No
+3/1/2026,Schwing Stetter Plant,CONCEPT ENGINEERING& DEVELOPMENT LTD.,Gabtoli,23.790307,90.33269,3000,30.09,1062.63,No
+3/1/2026,Schwing Stetter Plant,G Six Packaging & Accessories Ltd.,"Zirobo, Ashulia",23.899658,90.274503,5800,11.67,412.13,Yes
+3/1/2026,Schwing Stetter Plant,Green Dot Limited,Ashulia,23.907745,90.269962,4350,6.24,220.37,No
+3/1/2026,Schwing Stetter Plant,Jahangir Alom,Ashulia,23.909278,90.265985,5000,111.77,3947.16,Yes
+3/1/2026,Schwing Stetter Plant,MD.Abdul Mannan,Uttara,23.875636,90.379865,3500,68.69,2425.79,Yes
+3/1/2026,Schwing Stetter Plant,Mahamud Hasan,Uttara,23.87573,90.37872,4350,3.85,135.96,Yes
+3/1/2026,Schwing Stetter Plant,Shanto-Mariam University of Creative Technology,Uttara,23.878989,90.381612,3000,7.36,259.92,Yes
+3/1/2026,Schwing Stetter Plant,Space Ten Ltd,Baridhara,23.798298,90.428639,5800,103.38,3650.86,Yes
+3/2/2026,Fujian Xinda Plant,Anik Trading,Tongi,23.894514,90.405701,5000,28.26,998,No
+3/2/2026,Fujian Xinda Plant,Aries Securities Limited,Gulshan,23.792896,90.412172,3000,6.6,233.08,Yes
+3/2/2026,Fujian Xinda Plant,Bright Home Builders Ltd.,Mirpur,23.8069,90.359481,4000,47.87,1690.53,No
+3/2/2026,Fujian Xinda Plant,Dehsar Works,Gabtoli,23.791152,90.334041,4000,3.18,112.3,Yes
+3/2/2026,Fujian Xinda Plant,Hossain builders(Shopnochoa tower),Mirpur,23.809928,90.35751,3000,113.28,4000.48,Yes
+3/2/2026,Fujian Xinda Plant,JFA Enterprise Ltd,Mirpur,23.821787,90.364108,4350,45.05,1590.94,Yes
+3/2/2026,Fujian Xinda Plant,Mohammad Riaz,Uttara,23.876424,90.380777,4000,41.99,1482.88,Yes
+3/2/2026,Fujian Xinda Plant,PARADISE WASHING PLANT LTD,"Pagar, Tongi, Gazipur",23.895209,90.405502,4000,100.36,3544.21,No
+3/2/2026,Fujian Xinda Plant,Rising Design Ltd,Mirpur,23.822171,90.364523,4000,10.92,385.64,Yes
+3/2/2026,Fujian Xinda Plant,SWADESH ABASON,Dieabari,23.85054,90.355582,4000,34.78,1228.26,No
+3/2/2026,Schwing Stetter Plant,Amin Mohammad,Uttara,23.875063,90.3796,3500,32.71,1155.15,No
+3/2/2026,Schwing Stetter Plant,Arif Ashraf,Uttara,23.871658,90.378834,5800,119.11,4206.37,Yes
+3/2/2026,Schwing Stetter Plant,M/S SR Trading,Ashulia,23.909448,90.265427,4350,6.7,236.61,Yes
+3/2/2026,Schwing Stetter Plant,MD.Abdul Mannan,Uttara,23.87508,90.379686,6000,10.14,358.09,Yes
+3/2/2026,Schwing Stetter Plant,MS Construction Ltd,Mirpur,23.820957,90.363995,4000,40.14,1417.54,Yes
+3/2/2026,Schwing Stetter Plant,Md. Nasir Ullah,"Nikunja-1, Khilkhet, Dhaka.",23.834097,90.420846,4500,12.44,439.32,No
+3/2/2026,Schwing Stetter Plant,Oasis Enterprise,"ECB Chattar, Dhaka Cantonment",23.798042,90.392248,4000,85.2,3008.84,Yes
+3/2/2026,Schwing Stetter Plant,Shanto-Mariam University of Creative Technology,Uttara,23.879055,90.382432,5800,4.24,149.74,No
+3/2/2026,Schwing Stetter Plant,Sofiullah Developments Ltd.,Turag,23.849167,90.361854,4000,118.17,4173.17,Yes
+3/2/2026,Schwing Stetter Plant,Starpath Holdings Limited,"Kalabagan, Dhaka",23.750105,90.381218,4000,37.2,1313.72,No
+3/2/2026,Schwing Stetter Plant,Urban Design,"Uttara, Sector 10",23.880476,90.382311,4500,15.87,560.45,No
+3/3/2026,Fujian Xinda Plant,Akij Textile Mills Ltd. (RMC),Ashulia,23.90892,90.266405,4500,109.97,3883.59,No
+3/3/2026,Fujian Xinda Plant,Beximco Engineering Ltd.,Ashulia,23.910168,90.267488,5800,112.4,3969.41,Yes
+3/3/2026,Fujian Xinda Plant,Dihan Shah Properties,Uttara,23.87371,90.380286,4000,80.93,2858.04,Yes
+3/3/2026,Fujian Xinda Plant,M/S Lavlu Enterprise,"Khagan, Ashulia",23.880548,90.281897,4000,11.92,420.95,Yes
+3/3/2026,Fujian Xinda Plant,Monzzor Hossain  Mamun,Uttara,23.875682,90.37976,4000,30.91,1091.59,No
+3/3/2026,Fujian Xinda Plant,Osman Ali,Uttara,23.875273,90.379486,4000,105.87,3738.8,Yes
+3/3/2026,Fujian Xinda Plant,SWADESH ABASON,Dieabari,23.851272,90.35635,4350,10.2,360.21,Yes
+3/3/2026,Schwing Stetter Plant,Akij Plastics Ltd.,"Tongi, Gazipur",23.894775,90.404577,3500,72.38,2556.1,No
+3/3/2026,Schwing Stetter Plant,Anisha Enterprise,Mirpur,23.82246,90.362236,4350,96.47,3406.84,Yes
+3/3/2026,Schwing Stetter Plant,Bochila City Developers Ltd,Bosila,23.71992,90.35144,4500,46.6,1645.68,No
+3/3/2026,Schwing Stetter Plant,Bright Home Builders Ltd.,Mirpur,23.806756,90.358869,4000,10.27,362.69,Yes
+3/3/2026,Schwing Stetter Plant,MA Jobber,Ashulia,23.908082,90.265519,3500,74.5,2630.97,Yes
+3/3/2026,Schwing Stetter Plant,Mahamud Hasan,Uttara,23.875883,90.378653,4500,29.52,1042.5,No
+3/3/2026,Schwing Stetter Plant,Md Bellal Hossain,Uttara,23.874981,90.378534,4500,13.88,490.17,Yes
+3/3/2026,Schwing Stetter Plant,Mutual Living Limited(Project: Mutual 765),Dhanmondi,23.74545,90.372699,3500,58.84,2077.93,Yes
+3/3/2026,Schwing Stetter Plant,Rupayan Housing Estate Ltd.(Project: Rupayan City Uttara),Uttara,23.874719,90.380304,5000,11.35,400.83,Yes
+3/3/2026,Schwing Stetter Plant,STI Builders (Tower 36),Uttara,23.870429,90.380076,3500,13.9,490.88,No
+3/3/2026,Schwing Stetter Plant,Shonar Bangla Tower,Khilkhet,23.833751,90.421673,5000,5.7,201.3,Yes
+3/3/2026,Schwing Stetter Plant,Toma Holding Ltd,Tejgaon,23.771352,90.398753,5800,79.33,2801.54,Yes
+3/3/2026,Schwing Stetter Plant,Valven Homes Ltd,Bashundhara,23.814886,90.435576,3000,11.62,410.36,Yes
+3/4/2026,Fujian Xinda Plant,Dehsar Works,Gabtoli,23.79107,90.334168,4000,32.3,1140.67,Yes
+3/4/2026,Fujian Xinda Plant,Mahamud Hasan,Uttara,23.876136,90.379329,4000,101.37,3579.88,Yes
+3/4/2026,Fujian Xinda Plant,Next Spaces Limited,Bashundhara,23.815239,90.434776,4000,10.08,355.98,No
+3/4/2026,Fujian Xinda Plant,Prince Business Center,"Banani, Dhaka",23.793792,90.403306,5800,31.56,1114.54,No
+3/4/2026,Fujian Xinda Plant,Valven Homes Ltd,Bashundhara,23.814489,90.435758,3500,11.29,398.71,No
+3/4/2026,Schwing Stetter Plant,Asset Developments & Holdings Limited,"Gulshan, Dhaka",23.79324,90.41338,3500,11.41,402.94,Yes
+3/4/2026,Schwing Stetter Plant,Jahangir Hossain,Ashulia,23.908754,90.266607,5800,72.09,2545.86,No
+3/4/2026,Schwing Stetter Plant,NDE Infra Real Estate Ltd.,Bosila,23.719826,90.349592,5000,23.59,833.08,Yes
+3/4/2026,Schwing Stetter Plant,Oasis Enterprise,"ECB Chattar, Dhaka Cantonment",23.797679,90.391514,4000,118.2,4174.23,Yes
+3/4/2026,Schwing Stetter Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765862,90.359614,3000,90.39,3192.12,No
+3/4/2026,Schwing Stetter Plant,Sunvista Properties,Uttara,23.874253,90.378103,4000,24.95,881.11,No
+3/5/2026,Fujian Xinda Plant,A- Z Bangladesh,Ashulia,23.910422,90.270008,4350,45.24,1597.65,Yes
+3/5/2026,Fujian Xinda Plant,Akij Plastics Ltd.,"Tongi, Gazipur",23.89549,90.404805,4000,10.45,369.04,Yes
+3/5/2026,Fujian Xinda Plant,Amin Mohammad,Uttara,23.874783,90.379799,5000,10.04,354.56,No
+3/5/2026,Fujian Xinda Plant,Asset Development Ltd,Gulshan,23.792852,90.412393,4000,14.91,526.55,Yes
+3/5/2026,Fujian Xinda Plant,Ayesha Clothing co.Ltd,Ashulia,23.909657,90.264674,5000,81.54,2879.59,No
+3/5/2026,Fujian Xinda Plant,Deshar Works Ltd,Gabtoli,23.79083,90.334194,3000,106.95,3776.94,No
+3/5/2026,Fujian Xinda Plant,Green Dot Limited,Ashulia,23.907938,90.270198,4000,4.46,157.5,Yes
+3/5/2026,Fujian Xinda Plant,MS Construction Ltd,Mirpur,23.820776,90.363044,4000,39.68,1401.3,Yes
+3/5/2026,Fujian Xinda Plant,Orchid & Development Ltd,Ashulia,23.908752,90.264416,5800,12.27,433.32,No
+3/5/2026,Fujian Xinda Plant,Prince Business Center,"Banani, Dhaka",23.793772,90.40327,5000,82.94,2929.03,No
+3/5/2026,Fujian Xinda Plant,Rupayan Housing Estate Ltd.(Project: Rupayan City Uttara),Uttara,23.875045,90.380148,4000,13.9,490.88,No
+3/5/2026,Fujian Xinda Plant,Space Ten Ltd,Baridhara,23.798126,90.428965,5800,6.98,246.5,No
+3/5/2026,Fujian Xinda Plant,Urban Design,"Uttara, Sector 10",23.880052,90.382043,4000,63.21,2232.26,No
+3/5/2026,Schwing Stetter Plant,CONCEPT ENGINEERING& DEVELOPMENT LTD.,Gabtoli,23.789969,90.332804,3500,24.53,866.28,Yes
+3/5/2026,Schwing Stetter Plant,Dihan Shah Properties,Uttara,23.873688,90.379862,4000,12.08,426.61,Yes
+3/5/2026,Schwing Stetter Plant,Jahangir Alom,Ashulia,23.909585,90.266135,4350,18.19,642.38,Yes
+3/5/2026,Schwing Stetter Plant,MD.Abdul Mannan,Uttara,23.875288,90.379783,6000,17.49,617.66,No
+3/5/2026,Schwing Stetter Plant,Nandan Kanon Housing Ltd.,Ashulia,23.910735,90.265604,6000,97.2,3432.62,Yes
+3/5/2026,Schwing Stetter Plant,Priyoprangon,Mirpur,23.819792,90.363205,5800,31.89,1126.2,No
+3/6/2026,Fujian Xinda Plant,BYD Builders Ltd.,Mirpur,23.818158,90.361774,6000,9.79,345.73,Yes
+3/6/2026,Fujian Xinda Plant,Bangladesh Specialized Hospital Ltd.,"Shyamoli, Dhaka",23.772039,90.368471,5000,46.97,1658.75,Yes
+3/6/2026,Fujian Xinda Plant,Dehsar Works,Gabtoli,23.791403,90.334276,6000,5.76,203.41,Yes
+3/6/2026,Fujian Xinda Plant,Dihan Shah Properties,Uttara,23.874221,90.380159,3000,113.24,3999.07,Yes
+3/6/2026,Fujian Xinda Plant,Joney Enterprise,"Satrasta, Tejgaon",23.771066,90.400293,4000,110.96,3918.55,Yes
+3/6/2026,Fujian Xinda Plant,M/S SR Trading,Ashulia,23.909535,90.265984,3500,6.45,227.78,No
+3/6/2026,Schwing Stetter Plant,Fair Way,Uttara,23.875533,90.379865,4000,46.84,1654.15,No
+3/6/2026,Schwing Stetter Plant,Hilton Tower,"Rayer Bazar, Dhaka",23.747445,90.361488,4000,48.67,1718.78,Yes
+3/6/2026,Schwing Stetter Plant,Md Irfan Khan,Uttara,23.875153,90.378407,4000,70.71,2497.12,Yes
+3/6/2026,Schwing Stetter Plant,Osman Ali,Uttara,23.87565,90.379852,5000,45.08,1592,Yes
+3/6/2026,Schwing Stetter Plant,Rising  Design Ltd,Mirpur,23.820799,90.363529,4000,16.96,598.94,Yes
+3/6/2026,Schwing Stetter Plant,Sofiullah Developments Ltd.,Turag,23.848643,90.361961,4000,23.94,845.44,No
+3/7/2026,Fujian Xinda Plant,Anik Trading,Tongi,23.895091,90.405314,4000,97.1,3429.09,Yes
+3/7/2026,Fujian Xinda Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.910733,90.268274,4000,12.46,440.02,Yes
+3/7/2026,Fujian Xinda Plant,CONCEPT ENGINEERING& DEVELOPMENT LTD.,Gabtoli,23.789979,90.332902,3500,11.23,396.59,Yes
+3/7/2026,Fujian Xinda Plant,G Six Packaging & Accessories Ltd.,"Zirobo, Ashulia",23.900105,90.274599,4000,95.56,3374.7,Yes
+3/7/2026,Fujian Xinda Plant,GLG Assets Ltd,"Uttara, Sector 4",23.876227,90.380385,3000,44.18,1560.22,No
+3/7/2026,Fujian Xinda Plant,Hossain builders(Shopnochoa tower),Mirpur,23.810135,90.357964,3000,11.41,402.94,Yes
+3/7/2026,Fujian Xinda Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765066,90.359775,5800,72.76,2569.52,Yes
+3/7/2026,Fujian Xinda Plant,Sofiullah Developments Ltd.,Turag,23.848616,90.361735,5800,75.97,2682.88,Yes
+3/7/2026,Schwing Stetter Plant,Bangladesh Specialized Hospital Ltd.,"Shyamoli, Dhaka",23.771552,90.368242,5800,41.1,1451.45,Yes
+3/7/2026,Schwing Stetter Plant,Beximco Engineering Ltd.,Ashulia,23.90961,90.267366,4350,105.19,3714.78,No
+3/7/2026,Schwing Stetter Plant,Green Dot Limited,Ashulia,23.90769,90.269622,6000,96.39,3404.01,No
+3/7/2026,Schwing Stetter Plant,MS Construction Ltd,Mirpur,23.820334,90.363989,4000,108.09,3817.2,Yes
+3/7/2026,Schwing Stetter Plant,Md Abdur Rahim,Tongi,23.893945,90.404236,4350,75.71,2673.7,No
+3/7/2026,Schwing Stetter Plant,Radisson Creations LTD,Tongi,23.89444,90.404608,4350,111.9,3951.75,Yes
+3/7/2026,Schwing Stetter Plant,Valven Homes Ltd,Bashundhara,23.814222,90.435615,5000,46.81,1653.1,No
+3/8/2026,Fujian Xinda Plant,Anisha Enterprise,Mirpur,23.822255,90.361614,5800,24.91,879.7,No
+3/8/2026,Fujian Xinda Plant,Bandhon Nibash,Dieabari,23.851862,90.354542,4500,110.35,3897.01,Yes
+3/8/2026,Fujian Xinda Plant,Jahangir Hossain,Ashulia,23.9089,90.266652,3500,9.94,351.03,Yes
+3/8/2026,Fujian Xinda Plant,Md. Nasir Ullah,"Nikunja-1, Khilkhet, Dhaka.",23.834254,90.42055,5000,79.68,2813.9,No
+3/8/2026,Fujian Xinda Plant,Osman Ali,Uttara,23.875954,90.379687,3500,18.19,642.38,Yes
+3/8/2026,Fujian Xinda Plant,Shanto-Mariam University of Creative Technology,Uttara,23.878895,90.382099,4000,3.09,109.12,No
+3/8/2026,Fujian Xinda Plant,Suvastu Properties Ltd(Project: Shaptarshi)),Bashundhara,23.813918,90.434615,5000,106.09,3746.57,No
+3/8/2026,Fujian Xinda Plant,Toma Holding Ltd,Tejgaon,23.771008,90.398747,5800,99.26,3505.37,No
+3/8/2026,Schwing Stetter Plant,Dehsar Works,Gabtoli,23.791056,90.334086,4500,26.54,937.26,Yes
+3/8/2026,Schwing Stetter Plant,Goutom Kumer Sarker,Tejgaon,23.769868,90.398263,6000,109.16,3854.99,Yes
+3/8/2026,Schwing Stetter Plant,MIRSAIGE,Mirpur,23.819954,90.362657,3500,115.9,4093.01,No
+3/8/2026,Schwing Stetter Plant,Monzzor Hossain  Mamun,Uttara,23.876158,90.380193,4350,24.56,867.34,No
+3/8/2026,Schwing Stetter Plant,Prince Business Center,"Banani, Dhaka",23.793243,90.403657,5800,3.84,135.61,No
+3/9/2026,Fujian Xinda Plant,Akij Textile Mills Ltd. (RMC),Ashulia,23.909179,90.265552,4500,73.08,2580.82,No
+3/9/2026,Fujian Xinda Plant,Ayesha Clothing co.Ltd,Ashulia,23.910054,90.265292,4000,106.69,3767.76,Yes
+3/9/2026,Fujian Xinda Plant,Dehsar Works,Gabtoli,23.791156,90.334162,4500,55.93,1975.17,Yes
+3/9/2026,Fujian Xinda Plant,M/S SR Trading,Ashulia,23.910008,90.266291,4500,36.34,1283.35,Yes
+3/9/2026,Fujian Xinda Plant,MD.Abdul Mannan,Uttara,23.875222,90.380279,4350,3.92,138.43,Yes
+3/9/2026,Fujian Xinda Plant,Siddikur Rahman,Dianmondi,23.746552,90.373964,4000,55.71,1967.4,No
+3/9/2026,Fujian Xinda Plant,Space Ten Ltd,Baridhara,23.798773,90.428494,6000,81.42,2875.35,Yes
+3/9/2026,Fujian Xinda Plant,Ventura Properties ,Bashundhara,23.813574,90.435962,3500,70.1,2475.58,Yes
+3/9/2026,Schwing Stetter Plant,Bangladesh Specialized Hospital Ltd.,"Shyamoli, Dhaka",23.772001,90.368458,3500,108.62,3835.92,No
+3/9/2026,Schwing Stetter Plant,Monzzor Hossain  Mamun,Uttara,23.876127,90.379651,6000,30.48,1076.4,No
+3/9/2026,Schwing Stetter Plant,Sunvista Properties,Uttara,23.874319,90.378815,4000,63.81,2253.45,No
+3/10/2026,Fujian Xinda Plant,Accurate Assets Holdings Limited,Uttara,23.875044,90.380699,5000,86.08,3039.92,No
+3/10/2026,Fujian Xinda Plant,Green Dot Limited,Ashulia,23.908019,90.270301,5800,11.72,413.89,No
+3/10/2026,Fujian Xinda Plant,NDE Infra Real Estate Ltd.,Bosila,23.719273,90.349905,5000,4.77,168.45,Yes
+3/10/2026,Fujian Xinda Plant,Nabid Petroleum Co.Limited,Kawla,23.859505,90.389579,6000,88.42,3122.55,No
+3/10/2026,Fujian Xinda Plant,Next Spaces Limited,Bashundhara,23.815147,90.434786,3500,16.67,588.7,No
+3/10/2026,Fujian Xinda Plant,Proyash,Mirpur,23.808809,90.357309,5000,75.75,2675.11,Yes
+3/10/2026,Fujian Xinda Plant,SWADESH ABASON,Dieabari,23.8509,90.35594,5000,63.08,2227.67,Yes
+3/10/2026,Fujian Xinda Plant,Shanto-Mariam University of Creative Technology,Uttara,23.879339,90.38215,4000,19.82,699.94,No
+3/10/2026,Fujian Xinda Plant,Toma Holding Ltd,Tejgaon,23.771415,90.398396,3000,7.49,264.51,Yes
+3/10/2026,Fujian Xinda Plant,Ventura Properties ,Bashundhara,23.814278,90.436003,4000,63.98,2259.45,No
+3/10/2026,Schwing Stetter Plant,Akij Textile Mills Ltd. (RMC),Ashulia,23.908741,90.265917,5800,10.97,387.41,No
+3/10/2026,Schwing Stetter Plant,Creative Builders Ltd,"Panthapath, Dhanmondi",23.753128,90.387272,4350,53.1,1875.23,Yes
+3/10/2026,Schwing Stetter Plant,Dehsar Works,Gabtoli,23.791185,90.334481,5000,59.44,2099.12,No
+3/10/2026,Schwing Stetter Plant,G Six Packaging & Accessories Ltd.,"Zirobo, Ashulia",23.899981,90.274871,4000,14.21,501.83,Yes
+3/10/2026,Schwing Stetter Plant,Green Land,Dhanmondi,23.7461,90.374236,4500,35.13,1240.62,Yes
+3/10/2026,Schwing Stetter Plant,MA Jobber,Ashulia,23.909,90.265655,5800,85.54,3020.85,Yes
+3/10/2026,Schwing Stetter Plant,Orchid and Textile Tower,Ashulia,23.909044,90.264364,5000,92.74,3275.11,Yes
+3/10/2026,Schwing Stetter Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765288,90.359801,3500,29.69,1048.5,Yes
+3/10/2026,Schwing Stetter Plant,Starpath Holdings Limited,"Kalabagan, Dhaka",23.74997,90.381136,4350,14.77,521.6,Yes
+3/10/2026,Schwing Stetter Plant,Umayer Trading Cor. Ltd,Tongi,23.894576,90.404918,6000,62.66,2212.84,Yes
+3/11/2026,Fujian Xinda Plant,Amin Mohammad,Uttara,23.874999,90.379887,4000,24.16,853.21,Yes
+3/11/2026,Fujian Xinda Plant,Fair Way,Uttara,23.8765,90.380219,4000,9.31,328.78,Yes
+3/11/2026,Fujian Xinda Plant,Mutual Living Limited(Project: Mutual 765),Dhanmondi,23.744736,90.373145,5000,7.35,259.57,No
+3/11/2026,Schwing Stetter Plant,Akij Textile Mills Ltd. (RMC),Ashulia,23.909263,90.266074,3500,9.35,330.2,Yes
+3/11/2026,Schwing Stetter Plant,Jahangir Alom,Ashulia,23.909999,90.2657,5000,62.09,2192.71,Yes
+3/11/2026,Schwing Stetter Plant,Md Bellal Hossain,Uttara,23.874352,90.378042,3000,27.34,965.51,Yes
+3/11/2026,Schwing Stetter Plant,Nortex Textile Mills Ltd,"Nikunja-1, Dhaka",23.833526,90.420054,3500,88.62,3129.62,No
+3/11/2026,Schwing Stetter Plant,Shanto-Mariam University of Creative Technology,Uttara,23.879427,90.382138,4000,12.52,442.14,Yes
+3/11/2026,Schwing Stetter Plant,Shonar Bangla Tower,Khilkhet,23.833406,90.421513,5000,52.18,1842.74,No
+3/11/2026,Schwing Stetter Plant,South Breeze Housing Ltd,Dhanmondi,23.745968,90.374287,4000,39.83,1406.6,Yes
+3/11/2026,Schwing Stetter Plant,Urban Design,"Uttara, Sector 10",23.87995,90.38218,6000,104.62,3694.66,Yes
+3/12/2026,Fujian Xinda Plant,Akij Plastics Ltd.,"Tongi, Gazipur",23.894659,90.405496,4500,8.6,303.71,Yes
+3/12/2026,Fujian Xinda Plant,Joney Enterprise,"Satrasta, Tejgaon",23.771445,90.400364,6000,48.69,1719.49,No
+3/12/2026,Fujian Xinda Plant,Md. Maidul Islam,Uttara,23.873347,90.378931,3000,40.46,1428.84,No
+3/12/2026,Fujian Xinda Plant,Nortex Textile Mills Ltd,"Nikunja-1, Dhaka",23.833715,90.419853,5000,111.76,3946.8,Yes
+3/12/2026,Fujian Xinda Plant,Rising Design & Development Ltd.,Mirpur,23.822271,90.364765,5000,5.53,195.29,Yes
+3/12/2026,Fujian Xinda Plant,Rupayan Housing Estate Ltd.(Project: Rupayan City Uttara),Uttara,23.874984,90.379704,4350,100.29,3541.74,No
+3/12/2026,Schwing Stetter Plant,M/S SR Trading,Ashulia,23.909924,90.266202,3500,7.05,248.97,Yes
+3/12/2026,Schwing Stetter Plant,Mahamud Hasan,Uttara,23.876051,90.378625,6000,6.63,234.14,No
+3/12/2026,Schwing Stetter Plant,Md Bellal Hossain,Uttara,23.874562,90.378363,4000,81.52,2878.88,No
+3/12/2026,Schwing Stetter Plant,Priyoprangon,Mirpur,23.819871,90.363062,4000,6.83,241.2,No
+3/12/2026,Schwing Stetter Plant,Sunvista Properties,Uttara,23.874435,90.378225,4000,14.37,507.48,Yes
+3/12/2026,Schwing Stetter Plant,Umayer Trading Cor. Ltd,Tongi,23.894002,90.404545,3000,81.75,2887,No
+3/13/2026,Fujian Xinda Plant,Austral Properties Ltd.,"Pallabi, Mirpur, Dhaka",23.834747,90.358058,4000,49.05,1732.2,No
+3/13/2026,Fujian Xinda Plant,GLG Assets Ltd,"Uttara, Sector 4",23.875673,90.380412,4000,104.04,3674.17,No
+3/13/2026,Fujian Xinda Plant,Jahangir Alom,Ashulia,23.909349,90.266434,5800,58.53,2066.99,Yes
+3/13/2026,Fujian Xinda Plant,Md Abdur Rahim,Tongi,23.894236,90.404062,5000,72.75,2569.17,No
+3/13/2026,Fujian Xinda Plant,Nabid Petroleum Co.Limited,Kawla,23.859895,90.389845,3500,52.94,1869.58,Yes
+3/13/2026,Fujian Xinda Plant,Orchid & Development Ltd,Ashulia,23.90901,90.26479,3500,31.62,1116.66,Yes
+3/13/2026,Fujian Xinda Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765701,90.359691,4500,8.29,292.76,Yes
+3/13/2026,Fujian Xinda Plant,Suvastu Properties Ltd(Project: Shaptarshi)),Bashundhara,23.814016,90.434828,4000,119.34,4214.49,Yes
+3/13/2026,Schwing Stetter Plant,Bangladesh Specialized Hospital Ltd.,"Shyamoli, Dhaka",23.771901,90.36754,5000,106.28,3753.28,Yes
+3/13/2026,Schwing Stetter Plant,CONCEPT ENGINEERING& DEVELOPMENT LTD.,Gabtoli,23.790084,90.332671,4000,10.55,372.57,Yes
+3/13/2026,Schwing Stetter Plant,Dehsar Works,Gabtoli,23.791297,90.334225,6000,83.22,2938.91,Yes
+3/14/2026,Fujian Xinda Plant,Aries Securities Limited,Gulshan,23.792514,90.411837,4500,63.52,2243.21,Yes
+3/14/2026,Fujian Xinda Plant,Arif Ashraf,Uttara,23.872441,90.378368,6000,48.51,1713.13,No
+3/14/2026,Fujian Xinda Plant,Austral Properties Ltd.,"Pallabi, Mirpur, Dhaka",23.835068,90.357607,5800,119.24,4210.96,Yes
+3/14/2026,Fujian Xinda Plant,Jahangir Hossain,Ashulia,23.908434,90.266804,5000,73.15,2583.29,Yes
+3/14/2026,Fujian Xinda Plant,MD.Abdul Mannan,Uttara,23.875472,90.379787,4500,94.91,3351.75,Yes
+3/14/2026,Fujian Xinda Plant,Manama Developments Ltd,"Baridhara, Dhaka",23.797587,90.428169,3000,5.22,184.34,No
+3/14/2026,Fujian Xinda Plant,Siddikur Rahman,Dianmondi,23.746678,90.373158,4000,83.3,2941.74,No
+3/14/2026,Fujian Xinda Plant,Space Ten Ltd,Baridhara,23.798513,90.428457,3000,106.48,3760.34,No
+3/14/2026,Schwing Stetter Plant,Abdul Hasan,Mirpur,23.815028,90.360862,4000,108.01,3814.37,No
+3/14/2026,Schwing Stetter Plant,Bandhon Nibash,Dieabari,23.851531,90.355138,4000,3.63,128.19,Yes
+3/14/2026,Schwing Stetter Plant,CONCEPT ENGINEERING& DEVELOPMENT LTD.,Gabtoli,23.789947,90.332767,4350,35.39,1249.8,No
+3/14/2026,Schwing Stetter Plant,Creative Builders Ltd,"Panthapath, Dhanmondi",23.753338,90.387434,4000,3.44,121.48,No
+3/14/2026,Schwing Stetter Plant,M/S Lavlu Enterprise,"Khagan, Ashulia",23.880463,90.281719,4350,28.27,998.36,No
+3/14/2026,Schwing Stetter Plant,MA Jobber,Ashulia,23.908118,90.265807,4000,112.66,3978.59,Yes
+3/14/2026,Schwing Stetter Plant,Md Alamgir Hossain,Dieabari,23.852146,90.355908,3000,87.46,3088.65,No
+3/14/2026,Schwing Stetter Plant,Oasis Enterprise,"ECB Chattar, Dhaka Cantonment",23.798049,90.391971,6000,9.45,333.73,Yes
+3/14/2026,Schwing Stetter Plant,Orchid and Textile Tower,Ashulia,23.909854,90.264442,5000,84.22,2974.23,Yes
+3/14/2026,Schwing Stetter Plant,PARADISE WASHING PLANT LTD,"Pagar, Tongi, Gazipur",23.894882,90.40637,5800,97.79,3453.45,Yes
+3/14/2026,Schwing Stetter Plant,Rising Property Development,Mirpur,23.809503,90.359718,3000,99.03,3497.24,Yes
+3/14/2026,Schwing Stetter Plant,Toma Holding Ltd,Tejgaon,23.771348,90.398178,3000,9.45,333.73,Yes
+3/15/2026,Fujian Xinda Plant,Amin Mohammad,Uttara,23.874912,90.380343,5000,50.64,1788.35,No
+3/15/2026,Fujian Xinda Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.911138,90.268434,5800,51.1,1804.6,No
+3/15/2026,Fujian Xinda Plant,Brothers Community Alliance Ltd.,Bosila,23.718063,90.347721,4500,115.43,4076.41,No
+3/15/2026,Fujian Xinda Plant,Green Land,Dhanmondi,23.745839,90.374022,4000,31.32,1106.07,Yes
+3/15/2026,Fujian Xinda Plant,JFA Enterprise Ltd,Mirpur,23.821047,90.364344,4500,86.71,3062.16,No
+3/15/2026,Fujian Xinda Plant,M/S. S. LOVLU ENTERPRISE,"Khagan, Ashulia",23.881021,90.281914,4000,91.42,3228.5,Yes
+3/15/2026,Fujian Xinda Plant,Nandan Kanon Housing Ltd.,Ashulia,23.910741,90.265402,4000,5.81,205.18,No
+3/15/2026,Fujian Xinda Plant,Rising Property Development,Mirpur,23.809997,90.359599,4350,14.78,521.96,No
+3/15/2026,Fujian Xinda Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.76483,90.35888,4350,95.82,3383.88,Yes
+3/15/2026,Fujian Xinda Plant,Shonar Bangla Tower,Khilkhet,23.833376,90.421754,4000,71.05,2509.13,Yes
+3/15/2026,Schwing Stetter Plant,Abdul Hasan,Mirpur,23.815347,90.360592,6000,68.79,2429.32,Yes
+3/15/2026,Schwing Stetter Plant,Accurate Assets Holdings Limited,Uttara,23.875188,90.381262,4000,34.56,1220.49,No
+3/15/2026,Schwing Stetter Plant,Deshar Works Ltd,Gabtoli,23.790988,90.334417,3500,9.51,335.85,Yes
+3/15/2026,Schwing Stetter Plant,M/S SR Trading,Ashulia,23.909396,90.265449,4500,33.43,1180.58,No
+3/15/2026,Schwing Stetter Plant,MD.Abdul Mannan,Uttara,23.875377,90.379976,4350,39.6,1398.47,Yes
+3/15/2026,Schwing Stetter Plant,Md. Nasir Ullah,"Nikunja-1, Khilkhet, Dhaka.",23.833989,90.421224,4000,31.13,1099.36,Yes
+3/15/2026,Schwing Stetter Plant,Nassa Holding Ltd,Gulshan,23.792029,90.412275,4500,106.92,3775.88,No
+3/15/2026,Schwing Stetter Plant,PARADISE WASHING PLANT LTD,"Pagar, Tongi, Gazipur",23.894906,90.406065,3000,14.88,525.49,No
+3/15/2026,Schwing Stetter Plant,Prince Business Center,"Banani, Dhaka",23.793662,90.403968,4350,9.69,342.2,Yes
+3/15/2026,Schwing Stetter Plant,Radisson Creations LTD,Tongi,23.894416,90.405076,4000,9.93,350.68,Yes
+3/15/2026,Schwing Stetter Plant,ST Enterprise,Tongi,23.89429,90.405441,6000,114.01,4026.26,No
+3/16/2026,Fujian Xinda Plant,Fair Way,Uttara,23.876284,90.379951,6000,5.74,202.71,No
+3/16/2026,Fujian Xinda Plant,Hilton Tower,"Rayer Bazar, Dhaka",23.747057,90.361012,6000,88.8,3135.97,Yes
+3/16/2026,Fujian Xinda Plant,M/S Lavlu Enterprise,"Khagan, Ashulia",23.880849,90.281677,3500,101.78,3594.36,No
+3/16/2026,Fujian Xinda Plant,Md. Hafizur Rahman,Uttara,23.87557,90.379269,4500,20.11,710.18,Yes
+3/16/2026,Fujian Xinda Plant,ST Enterprise,Tongi,23.894719,90.405498,4000,60.8,2147.15,No
+3/16/2026,Schwing Stetter Plant, Rangs Properties Ltd.,Farmgate,23.855424,90.357184,4350,6.36,224.6,Yes
+3/16/2026,Schwing Stetter Plant,Ashiyan Lands Development Ltd.,Uttarkhan,23.904607,90.404505,3500,6.7,236.61,No
+3/16/2026,Schwing Stetter Plant,Creative Builders Ltd,"Panthapath, Dhanmondi",23.753087,90.387252,6000,11.55,407.89,Yes
+3/16/2026,Schwing Stetter Plant,M/S SR Trading,Ashulia,23.909737,90.266139,4350,41.92,1480.4,Yes
+3/16/2026,Schwing Stetter Plant,Manama Developments Ltd,"Baridhara, Dhaka",23.797512,90.427914,6000,12.35,436.14,Yes
+3/17/2026,Fujian Xinda Plant,Abdul Hasan,Mirpur,23.814748,90.361165,4500,89.43,3158.22,Yes
+3/17/2026,Fujian Xinda Plant,Bandhon Nibash,Dieabari,23.851824,90.355151,4000,92.22,3256.75,No
+3/17/2026,Fujian Xinda Plant,Debonair Felt and Geotextile ltd,"Kamarpara, Gazipur",23.904742,90.396159,5000,55.18,1948.68,Yes
+3/17/2026,Fujian Xinda Plant,MD.Abdul Mannan,Uttara,23.875965,90.380469,4000,84.37,2979.53,No
+3/17/2026,Fujian Xinda Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765135,90.359507,5000,44.46,1570.1,No
+3/17/2026,Schwing Stetter Plant,Austral Properties Ltd.,"Pallabi, Mirpur, Dhaka",23.83493,90.357511,6000,86.32,3048.39,No
+3/17/2026,Schwing Stetter Plant,Beximco Engineering Ltd.,Ashulia,23.910316,90.266893,4000,91.46,3229.91,Yes
+3/17/2026,Schwing Stetter Plant,Deshar Works Ltd,Gabtoli,23.791423,90.33437,5800,117.79,4159.75,No
+3/17/2026,Schwing Stetter Plant,Dream House,Dianmondi,23.745962,90.375208,5000,25.2,889.94,Yes
+3/17/2026,Schwing Stetter Plant,Goutom Kumer Sarker,Tejgaon,23.769891,90.398272,5000,10.06,355.27,No
+3/17/2026,Schwing Stetter Plant,Oasis Enterprise,"ECB Chattar, Dhaka Cantonment",23.798421,90.391586,5000,40.56,1432.38,Yes
+3/18/2026,Fujian Xinda Plant,Akij Plastics Ltd.,"Tongi, Gazipur",23.894884,90.405062,5000,84.42,2981.29,No
+3/18/2026,Fujian Xinda Plant,Beximco Engineering Ltd.,Ashulia,23.9103,90.267037,5000,57.98,2047.56,Yes
+3/18/2026,Fujian Xinda Plant,Green Land,Dhanmondi,23.74621,90.374128,6000,10.39,366.92,Yes
+3/18/2026,Fujian Xinda Plant,Md. Hafizur Rahman,Uttara,23.875965,90.379796,4000,16.14,569.98,Yes
+3/18/2026,Fujian Xinda Plant,Md. Nasir Ullah,"Nikunja-1, Khilkhet, Dhaka.",23.833926,90.420962,4500,63.05,2226.61,No
+3/18/2026,Fujian Xinda Plant,Radisson Creations LTD,Tongi,23.893849,90.405317,4000,8.27,292.06,Yes
+3/18/2026,Schwing Stetter Plant,Amin Mohammad,Uttara,23.874813,90.379739,4500,28.07,991.29,Yes
+3/18/2026,Schwing Stetter Plant,Anisha Enterprise,Mirpur,23.821923,90.361987,5800,9.45,333.73,Yes
+3/18/2026,Schwing Stetter Plant,Hilton Tower,"Rayer Bazar, Dhaka",23.746843,90.360609,4000,101.83,3596.13,No
+3/18/2026,Schwing Stetter Plant,JFA Enterprise Ltd,Mirpur,23.821773,90.364495,4350,68.75,2427.91,Yes
+3/18/2026,Schwing Stetter Plant,MA Jobber,Ashulia,23.908611,90.266087,4000,93.22,3292.06,Yes
+3/18/2026,Schwing Stetter Plant,Nassa Holding Ltd,Gulshan,23.791941,90.412219,4000,8.1,286.05,No
+3/18/2026,Schwing Stetter Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.76464,90.358815,5000,8.41,297,No
+3/18/2026,Schwing Stetter Plant,Urban Design,"Uttara, Sector 10",23.880114,90.381697,4000,10.11,357.03,Yes
+3/18/2026,Schwing Stetter Plant,Valven Homes Ltd,Bashundhara,23.814597,90.435168,3500,90.09,3181.53,Yes
+3/19/2026,Fujian Xinda Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.911,90.268094,4000,49.22,1738.2,Yes
+3/19/2026,Fujian Xinda Plant,MA Jobber,Ashulia,23.908306,90.266199,4000,5.81,205.18,No
+3/19/2026,Fujian Xinda Plant,MD.Abdul Mannan,Uttara,23.875229,90.379589,4000,18.61,657.21,Yes
+3/19/2026,Fujian Xinda Plant,Manama Developments Ltd,"Baridhara, Dhaka",23.798242,90.428241,5000,4.43,156.45,Yes
+3/19/2026,Fujian Xinda Plant,Nafiz Enterprise,Uttara,23.874155,90.377827,3500,95.49,3372.23,Yes
+3/19/2026,Fujian Xinda Plant,Nandan Kanon Housing Ltd.,Ashulia,23.91051,90.265748,5000,6.55,231.31,No
+3/19/2026,Fujian Xinda Plant,Next Spaces Limited,Bashundhara,23.814716,90.435423,5800,70.05,2473.82,No
+3/19/2026,Fujian Xinda Plant,Osman Ali,Uttara,23.875414,90.379452,4000,56.52,1996,Yes
+3/19/2026,Schwing Stetter Plant,Bangladesh Specialized Hospital Ltd.,"Shyamoli, Dhaka",23.772068,90.367865,3000,11.2,395.53,No
+3/19/2026,Schwing Stetter Plant,Dream House,Dianmondi,23.74623,90.375346,6000,18.02,636.38,No
+3/19/2026,Schwing Stetter Plant,GLG Assets Ltd,"Uttara, Sector 4",23.876253,90.379633,6000,14.92,526.9,No
+3/19/2026,Schwing Stetter Plant,MS Construction Ltd,Mirpur,23.820485,90.363344,3000,16.69,589.41,Yes
+3/19/2026,Schwing Stetter Plant,Md Abdur Rahim,Tongi,23.894283,90.404721,3500,19.44,686.52,No
+3/19/2026,Schwing Stetter Plant,Md Bellal Hossain,Uttara,23.874123,90.37873,4000,7.22,254.97,No
+3/19/2026,Schwing Stetter Plant,Mohammad Riaz,Uttara,23.876398,90.381468,4350,32.32,1141.38,Yes
+3/19/2026,Schwing Stetter Plant,Orchid & Textile Ltd,Ashulia,23.909294,90.265219,4500,8.34,294.53,Yes
+3/19/2026,Schwing Stetter Plant,Rising  Design Ltd,Mirpur,23.820658,90.363957,4000,14.9,526.19,Yes
+3/19/2026,Schwing Stetter Plant,Rising Design & Development Ltd.,Mirpur,23.821988,90.365082,4350,44.65,1576.81,Yes
+3/19/2026,Schwing Stetter Plant,STI Builders (Tower 36),Uttara,23.870377,90.379593,4000,96.52,3408.6,No
+3/19/2026,Schwing Stetter Plant,South Breeze Housing Ltd,Dhanmondi,23.745722,90.373928,3500,4.82,170.22,No
+3/19/2026,Schwing Stetter Plant,Umayer Trading Cor. Ltd,Tongi,23.894102,90.404941,5800,9.45,333.73,Yes
+3/19/2026,Schwing Stetter Plant,Universal Medical Collage,Uttara,23.875301,90.379821,4000,51.88,1832.14,Yes
+3/20/2026,Fujian Xinda Plant,BYD Builders Ltd.,Mirpur,23.818304,90.362481,4000,17.41,614.83,No
+3/20/2026,Fujian Xinda Plant,Dream House,Dianmondi,23.745524,90.375042,3000,39.27,1386.82,Yes
+3/20/2026,Fujian Xinda Plant,Goutom Kumer Sarker,Tejgaon,23.770137,90.397894,4000,10.1,356.68,No
+3/20/2026,Fujian Xinda Plant,Rising Design Ltd,Mirpur,23.822157,90.364448,4000,11.53,407.18,Yes
+3/20/2026,Fujian Xinda Plant,Sofiullah Developments Ltd.,Turag,23.849227,90.361604,4000,9.36,330.55,No
+3/20/2026,Fujian Xinda Plant,South Breeze Housing Ltd,Dhanmondi,23.745457,90.373669,5000,6.5,229.55,Yes
+3/20/2026,Fujian Xinda Plant,Ventura Properties ,Bashundhara,23.814363,90.435745,5800,8.66,305.83,No
+3/20/2026,Schwing Stetter Plant,Ashiyan Lands Development Ltd.,Uttarkhan,23.904674,90.405452,5000,13.26,468.28,Yes
+3/20/2026,Schwing Stetter Plant,Debonair Felt and Geotextile ltd,"Kamarpara, Gazipur",23.905421,90.396397,3500,76.07,2686.41,Yes
+3/20/2026,Schwing Stetter Plant,Manama Developments Ltd,"Baridhara, Dhaka",23.797868,90.427755,5800,4.23,149.38,No
+3/20/2026,Schwing Stetter Plant,Nabid Petroleum Co.Limited,Kawla,23.859815,90.390301,4000,40.74,1438.73,Yes
+3/20/2026,Schwing Stetter Plant,Nafiz Enterprise,Uttara,23.874493,90.378273,4000,5.35,188.94,Yes
+3/20/2026,Schwing Stetter Plant,Nortex Textile Mills Ltd,"Nikunja-1, Dhaka",23.83364,90.419512,4350,49.39,1744.21,Yes
+3/20/2026,Schwing Stetter Plant,Rising Design & Development Ltd.,Mirpur,23.822465,90.364708,4000,6.7,236.61,No
+3/20/2026,Schwing Stetter Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.764748,90.359416,5800,6.84,241.55,No
+3/20/2026,Schwing Stetter Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765136,90.36027,4500,18.7,660.39,Yes
+3/21/2026,Fujian Xinda Plant,Austral Properties Ltd.,"Pallabi, Mirpur, Dhaka",23.835002,90.357888,3000,26.16,923.84,Yes
+3/21/2026,Fujian Xinda Plant,Bochila City Developers Ltd,Bosila,23.720314,90.350878,6000,11.81,417.07,Yes
+3/21/2026,Fujian Xinda Plant,G Six Packaging & Accessories Ltd.,"Zirobo, Ashulia",23.900344,90.274824,5800,3.26,115.13,Yes
+3/21/2026,Fujian Xinda Plant,Md. Alamgir Hossain,Dieabari,23.852123,90.356242,4500,80.32,2836.5,No
+3/21/2026,Fujian Xinda Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.765302,90.359295,5000,75.14,2653.57,Yes
+3/21/2026,Fujian Xinda Plant,Valven Homes Ltd,Bashundhara,23.814374,90.435942,4000,7.75,273.69,Yes
+3/21/2026,Schwing Stetter Plant,Green Land,Dhanmondi,23.746099,90.374583,4000,18.07,638.14,Yes
+3/21/2026,Schwing Stetter Plant,JFA Enterprise Ltd,Mirpur,23.821188,90.364988,3000,32.23,1138.2,No
+3/21/2026,Schwing Stetter Plant,M/S Lavlu Enterprise,"Khagan, Ashulia",23.880767,90.282,5800,18.5,653.33,Yes
+3/21/2026,Schwing Stetter Plant,NDE Infra Real Estate Ltd.,Bosila,23.719948,90.349576,4000,14.79,522.31,Yes
+3/21/2026,Schwing Stetter Plant,STI Builders (Tower 36),Uttara,23.870102,90.37952,4350,8.74,308.65,Yes
+3/21/2026,Schwing Stetter Plant,Sofiullah Developments Ltd.,Turag,23.849183,90.361673,3000,5.58,197.06,Yes
+3/21/2026,Schwing Stetter Plant,Umayer Trading Cor. Ltd,Tongi,23.894661,90.404949,4350,98.55,3480.29,Yes
+3/21/2026,Schwing Stetter Plant,Urban Design,"Uttara, Sector 10",23.880306,90.382198,6000,99.04,3497.6,Yes
+3/22/2026,Fujian Xinda Plant,Anisha Enterprise,Mirpur,23.821575,90.362442,3000,26.83,947.5,Yes
+3/22/2026,Fujian Xinda Plant,Bochila City Developers Ltd,Bosila,23.720257,90.350673,3000,14.81,523.02,No
+3/22/2026,Fujian Xinda Plant,Debonair Felt and Geotextile ltd,"Kamarpara, Gazipur",23.905318,90.395919,5000,9.43,333.02,No
+3/22/2026,Fujian Xinda Plant,Ebrahim & Brothers ,Tongi,23.894116,90.405785,5800,68.55,2420.84,No
+3/22/2026,Fujian Xinda Plant,JFA Enterprise Ltd,Mirpur,23.821165,90.36489,4500,4.89,172.69,Yes
+3/22/2026,Fujian Xinda Plant,Jahangir Alom,Ashulia,23.909799,90.265533,4000,24.14,852.5,No
+3/22/2026,Fujian Xinda Plant,M/S. S. LOVLU ENTERPRISE,"Khagan, Ashulia",23.881287,90.28222,4500,3.58,126.43,Yes
+3/22/2026,Fujian Xinda Plant,MD Osman Ali Construction Ltd.,Uttara,23.877367,90.38038,6000,95.84,3384.59,No
+3/22/2026,Fujian Xinda Plant,Sofiullah Developments Ltd.,Turag,23.848897,90.361826,6000,111.14,3924.91,No
+3/22/2026,Schwing Stetter Plant,Abdul Hasan,Mirpur,23.814797,90.360596,4350,7.71,272.28,No
+3/22/2026,Schwing Stetter Plant,Ashiyan Lands Development Ltd.,Uttarkhan,23.905322,90.40517,4000,11.75,414.95,No
+3/22/2026,Schwing Stetter Plant,G Six Packaging & Accessories Ltd.,"Zirobo, Ashulia",23.899711,90.275324,5800,11.89,419.9,No
+3/22/2026,Schwing Stetter Plant,GLG Assets Ltd,"Uttara, Sector 4",23.876403,90.380214,6000,106.03,3744.45,No
+3/22/2026,Schwing Stetter Plant,Green Dot Limited,Ashulia,23.907795,90.270162,4000,10.2,360.21,Yes
+3/22/2026,Schwing Stetter Plant,M/S Lavlu Enterprise,"Khagan, Ashulia",23.880885,90.281369,4000,8.35,294.88,No
+3/22/2026,Schwing Stetter Plant,M/S SR Trading,Ashulia,23.909575,90.265444,4000,39.28,1387.17,Yes
+3/22/2026,Schwing Stetter Plant,Nortex Textile Mills Ltd,"Nikunja-1, Dhaka",23.834421,90.420397,5000,43.61,1540.09,Yes
+3/22/2026,Schwing Stetter Plant,Oasis Enterprise,"ECB Chattar, Dhaka Cantonment",23.798196,90.391597,4000,78.98,2789.18,Yes
+3/22/2026,Schwing Stetter Plant,Rising Property Development,Mirpur,23.80965,90.360067,6000,9.99,352.8,Yes
+3/22/2026,Schwing Stetter Plant,Siddikur Rahman,Dianmondi,23.746383,90.373202,3500,20.18,712.66,No
+3/22/2026,Schwing Stetter Plant,Starpath Holdings Limited,"Kalabagan, Dhaka",23.749851,90.380875,4000,90.46,3194.59,Yes
+3/22/2026,Schwing Stetter Plant,Universal Medical Collage,Uttara,23.874928,90.3794,4500,72.46,2558.92,No
+3/23/2026,Fujian Xinda Plant,Austral Properties Ltd.,"Pallabi, Mirpur, Dhaka",23.834794,90.358351,3500,90.85,3208.37,Yes
+3/23/2026,Fujian Xinda Plant,Rising Design & Development Ltd.,Mirpur,23.822487,90.365393,3500,14.84,524.07,No
+3/23/2026,Fujian Xinda Plant,Shin Shin Apparels Ltd,"Zirabo, Ashulia",23.901213,90.274186,5800,31.65,1117.72,Yes
+3/23/2026,Fujian Xinda Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765046,90.360448,4000,33.21,1172.81,Yes
+3/23/2026,Fujian Xinda Plant,Umayer Trading Cor. Ltd,Tongi,23.8946,90.404954,4350,22.82,805.89,No
+3/23/2026,Fujian Xinda Plant,Valven Homes Ltd,Bashundhara,23.814608,90.435943,4350,39.83,1406.6,No
+3/23/2026,Fujian Xinda Plant,Ventura Properties ,Bashundhara,23.813967,90.436177,4350,57.16,2018.61,No
+3/23/2026,Schwing Stetter Plant,Arif Ashraf,Uttara,23.871887,90.378163,4000,110,3884.65,No
+3/23/2026,Schwing Stetter Plant,Ashiyan Lands Development Ltd.,Uttarkhan,23.905265,90.4054,4350,92,3248.98,Yes
+3/23/2026,Schwing Stetter Plant,Asset Development Ltd,Gulshan,23.79271,90.41232,4000,12.36,436.49,No
+3/23/2026,Schwing Stetter Plant,Goutom Kumer Sarker,Tejgaon,23.769699,90.397873,3000,3.17,111.95,Yes
+3/23/2026,Schwing Stetter Plant,Homelink Real Estate Ltd. (Project-14),"Bosila, Dhaka.",23.719955,90.350797,6000,6.11,215.77,No
+3/23/2026,Schwing Stetter Plant,M/S. S. LOVLU ENTERPRISE,"Khagan, Ashulia",23.881264,90.281588,4500,37.17,1312.66,No
+3/23/2026,Schwing Stetter Plant,MD.Abdul Mannan,Uttara,23.875987,90.379813,6000,3.7,130.67,Yes
+3/23/2026,Schwing Stetter Plant,Mahamud Hasan,Uttara,23.875699,90.378868,3000,114.62,4047.81,No
+3/23/2026,Schwing Stetter Plant,Monzzor Hossain  Mamun,Uttara,23.876094,90.379678,4000,13.45,474.99,No
+3/23/2026,Schwing Stetter Plant,Nassa Holding Ltd,Gulshan,23.79199,90.41275,4000,4.98,175.87,Yes
+3/23/2026,Schwing Stetter Plant,Orchid & Textile Ltd,Ashulia,23.908808,90.264764,4000,37.42,1321.49,No
+3/23/2026,Schwing Stetter Plant,PARADISE WASHING PLANT LTD,"Pagar, Tongi, Gazipur",23.894749,90.406194,4000,76.85,2713.96,No
+3/23/2026,Schwing Stetter Plant,SWADESH ABASON,Dieabari,23.851341,90.356376,5800,18.42,650.5,Yes
+3/23/2026,Schwing Stetter Plant,Universal Medical Collage,Uttara,23.8752,90.379967,4000,7.58,267.69,No
+3/24/2026,Fujian Xinda Plant,M/S. S. LOVLU ENTERPRISE,"Khagan, Ashulia",23.881279,90.282111,5000,13.35,471.46,No
+3/24/2026,Fujian Xinda Plant,MIRSAIGE,Mirpur,23.819616,90.362944,3000,4.48,158.21,No
+3/24/2026,Fujian Xinda Plant,Nortex Textile Mills Ltd,"Nikunja-1, Dhaka",23.834335,90.420169,3500,85.82,3030.73,Yes
+3/24/2026,Fujian Xinda Plant,Rupayan Housing Estate Ltd.(Project: Rupayan City Uttara),Uttara,23.874957,90.380477,4000,6.17,217.89,Yes
+3/24/2026,Fujian Xinda Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765313,90.360239,4000,4.14,146.2,No
+3/24/2026,Fujian Xinda Plant,South Breeze Housing Ltd,Dhanmondi,23.745438,90.373922,3500,13.54,478.17,No
+3/24/2026,Fujian Xinda Plant,Space Ten Ltd,Baridhara,23.798785,90.428498,4350,10.31,364.1,No
+3/24/2026,Schwing Stetter Plant,Creative Builders Ltd,"Panthapath, Dhanmondi",23.752875,90.38714,3500,12.25,432.61,No
+3/24/2026,Schwing Stetter Plant,Green Land,Dhanmondi,23.745701,90.37422,5800,10.47,369.75,No
+3/24/2026,Schwing Stetter Plant,Mahamud Hasan,Uttara,23.875539,90.378996,3000,5.49,193.88,Yes
+3/24/2026,Schwing Stetter Plant,Orchid & Development Ltd,Ashulia,23.908559,90.265242,5000,91.35,3226.03,Yes
+3/24/2026,Schwing Stetter Plant,Rising  Design Ltd,Mirpur,23.820957,90.364336,3500,11.28,398.35,Yes
+3/25/2026,Fujian Xinda Plant,Asset Developments & Holdings Limited,"Gulshan, Dhaka",23.793356,90.412841,5800,43.58,1539.03,Yes
+3/25/2026,Fujian Xinda Plant,BYD Builders Ltd.,Mirpur,23.817778,90.362007,5000,9.61,339.38,Yes
+3/25/2026,Fujian Xinda Plant,Beximco Engineering Ltd.,Ashulia,23.910048,90.266814,6000,11.84,418.13,Yes
+3/25/2026,Fujian Xinda Plant,Nafiz Enterprise,Uttara,23.874964,90.37847,5800,78.89,2786,Yes
+3/25/2026,Fujian Xinda Plant,Nassa Holding Ltd,Gulshan,23.791863,90.412453,4000,38.06,1344.09,Yes
+3/25/2026,Fujian Xinda Plant,Urban Design,"Uttara, Sector 10",23.879724,90.382456,3500,98.18,3467.23,Yes
+3/25/2026,Fujian Xinda Plant,Ventura Properties ,Bashundhara,23.814337,90.436089,4000,96.09,3393.42,No
+3/25/2026,Schwing Stetter Plant,Accurate Assets Holdings Limited,Uttara,23.875736,90.381053,6000,8.19,289.23,Yes
+3/25/2026,Schwing Stetter Plant,Anisha Enterprise,Mirpur,23.821536,90.362049,4000,117.42,4146.69,Yes
+3/25/2026,Schwing Stetter Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.91143,90.267893,4500,8.48,299.47,Yes
+3/25/2026,Schwing Stetter Plant,Ashiyan Lands Development Ltd.,Uttarkhan,23.905421,90.404633,4350,62.45,2205.42,Yes
+3/25/2026,Schwing Stetter Plant,M/S SR Trading,Ashulia,23.909346,90.265464,4000,4.69,165.63,No
+3/25/2026,Schwing Stetter Plant,Md. Hafizur Rahman,Uttara,23.875649,90.379346,6000,108.73,3839.8,No
+3/25/2026,Schwing Stetter Plant,Rising  Design Ltd,Mirpur,23.820948,90.364357,3000,84.82,2995.42,No
+3/25/2026,Schwing Stetter Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.765434,90.359006,4350,32.35,1142.44,No
+3/25/2026,Schwing Stetter Plant,Siddikur Rahman,Dianmondi,23.745828,90.373387,4500,45.89,1620.61,No
+3/26/2026,Fujian Xinda Plant,Humayun Rashid Real Estate Ltd,Bashundhara,23.815008,90.434825,4500,14.48,511.36,No
+3/26/2026,Fujian Xinda Plant,Md Alamgir Hossain,Dieabari,23.851606,90.355381,4000,3.64,128.55,No
+3/26/2026,Fujian Xinda Plant,Nafiz Enterprise,Uttara,23.874561,90.377738,3000,70.13,2476.64,No
+3/26/2026,Fujian Xinda Plant,Orchid & Textile Ltd,Ashulia,23.909522,90.265075,4000,53.07,1874.17,Yes
+3/26/2026,Fujian Xinda Plant,Prince Business Center,"Banani, Dhaka",23.793277,90.403683,3000,21.08,744.44,No
+3/26/2026,Fujian Xinda Plant,Priyoprangon,Mirpur,23.820118,90.363256,3500,55.08,1945.15,Yes
+3/26/2026,Fujian Xinda Plant,Siddikur Rahman,Dianmondi,23.746297,90.373774,5800,71.08,2510.19,No
+3/26/2026,Fujian Xinda Plant,Toma Holding Ltd,Tejgaon,23.771957,90.398976,4000,34.32,1212.01,Yes
+3/26/2026,Fujian Xinda Plant,Universal Medical Collage,Uttara,23.874921,90.379313,5800,65.29,2305.72,Yes
+3/26/2026,Schwing Stetter Plant,Aries Securities Limited,Gulshan,23.793324,90.412481,6000,81.2,2867.58,Yes
+3/26/2026,Schwing Stetter Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.910764,90.267661,3000,13.15,464.39,Yes
+3/26/2026,Schwing Stetter Plant,Asset Developments & Holdings Limited,"Gulshan, Dhaka",23.793308,90.412951,5800,7.85,277.22,Yes
+3/26/2026,Schwing Stetter Plant,JFA Enterprise Ltd,Mirpur,23.821717,90.364038,6000,3.88,137.02,Yes
+3/26/2026,Schwing Stetter Plant,Nassa Holding Ltd,Gulshan,23.792411,90.412705,4000,88.26,3116.9,No
+3/26/2026,Schwing Stetter Plant,P2P Engineering & construction Ltd,"Khagan, Ashulia",23.880183,90.282821,4000,77.01,2719.61,Yes
+3/26/2026,Schwing Stetter Plant,Papiya Khan,Dhanmondi,23.747562,90.375284,3500,33.94,1198.59,Yes
+3/26/2026,Schwing Stetter Plant,Shanto-Mariam University of Creative Technology,Uttara,23.878924,90.381604,3500,39.6,1398.47,No
+3/26/2026,Schwing Stetter Plant,Valven Homes Ltd,Bashundhara,23.814948,90.435167,4000,14.48,511.36,Yes
+3/27/2026,Fujian Xinda Plant,A- Z Bangladesh,Ashulia,23.909735,90.269785,6000,21.77,768.81,Yes
+3/27/2026,Fujian Xinda Plant,Aries Securities Limited,Gulshan,23.793163,90.412348,4000,61.61,2175.76,No
+3/27/2026,Fujian Xinda Plant,Hilton Tower,"Rayer Bazar, Dhaka",23.746713,90.360537,4000,87.78,3099.95,No
+3/27/2026,Fujian Xinda Plant,Homelink Real Estate Ltd. (Project-14),"Bosila, Dhaka.",23.720186,90.349876,6000,3.9,137.73,Yes
+3/27/2026,Fujian Xinda Plant,Jahangir Alom,Ashulia,23.909136,90.265891,4000,12.57,443.91,Yes
+3/27/2026,Fujian Xinda Plant,Jahangir Hossain,Ashulia,23.908941,90.266577,5000,38.79,1369.87,No
+3/27/2026,Fujian Xinda Plant,Md. Maidul Islam,Uttara,23.873391,90.37909,4500,13.29,469.34,Yes
+3/27/2026,Fujian Xinda Plant,Nandan Kanon Housing Ltd.,Ashulia,23.910617,90.265253,5800,4.38,154.68,Yes
+3/27/2026,Schwing Stetter Plant,Bangladesh Specialized Hospital Ltd.,"Shyamoli, Dhaka",23.771652,90.368067,4000,48.55,1714.54,Yes
+3/27/2026,Schwing Stetter Plant,G Six Packaging & Accessories Ltd.,"Zirobo, Ashulia",23.899511,90.275375,5800,16.46,581.28,No
+3/27/2026,Schwing Stetter Plant,Green Dot Limited,Ashulia,23.908066,90.270066,3000,20.12,710.54,Yes
+3/27/2026,Schwing Stetter Plant,P2P Engineering & construction Ltd,"Khagan, Ashulia",23.880248,90.283404,4000,95.22,3362.69,No
+3/27/2026,Schwing Stetter Plant,Shonar Bangla Tower,Khilkhet,23.833305,90.421552,5800,5.11,180.46,No
+3/27/2026,Schwing Stetter Plant,Urban Design,"Uttara, Sector 10",23.879573,90.382172,4350,21.91,773.75,Yes
+3/28/2026,Fujian Xinda Plant, Rangs Properties Ltd.,Farmgate,23.854639,90.356666,4000,3.93,138.79,Yes
+3/28/2026,Fujian Xinda Plant,BYD Builders Ltd.,Mirpur,23.81807,90.361877,5800,7.54,266.28,No
+3/28/2026,Fujian Xinda Plant,Brothers Community Alliance Ltd.,Bosila,23.717647,90.347666,3000,78.38,2767.99,Yes
+3/28/2026,Fujian Xinda Plant,Md. Hafizur Rahman,Uttara,23.876217,90.379661,5000,57.93,2045.8,No
+3/28/2026,Fujian Xinda Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.765382,90.35854,4000,117.79,4159.75,Yes
+3/28/2026,Schwing Stetter Plant,Akij Bekars Ltd,Ashulia,23.908402,90.2651,5000,13.53,477.81,Yes
+3/28/2026,Schwing Stetter Plant,Goutom Kumer Sarker,Tejgaon,23.769929,90.398438,6000,74.54,2632.38,No
+3/28/2026,Schwing Stetter Plant,Hilton Tower,"Rayer Bazar, Dhaka",23.747039,90.360501,4350,38.75,1368.46,Yes
+3/28/2026,Schwing Stetter Plant,Orchid & Development Ltd,Ashulia,23.90932,90.264482,5000,24.26,856.74,No
+3/28/2026,Schwing Stetter Plant,Priyoprangon,Mirpur,23.819717,90.363107,6000,31.86,1125.14,Yes
+3/28/2026,Schwing Stetter Plant,Signature 11 ltd (Shanta),Dhanmondi,23.765385,90.359609,4000,45.09,1592.35,No
+3/28/2026,Schwing Stetter Plant,Suvastu Properties Ltd(Project: Shaptarshi)),Bashundhara,23.814407,90.435016,6000,45.37,1602.24,Yes
+3/28/2026,Schwing Stetter Plant,Toma Holding Ltd,Tejgaon,23.771161,90.398833,4000,3.27,115.48,Yes
+3/29/2026,Fujian Xinda Plant, Rangs Properties Ltd.,Farmgate,23.854897,90.356704,5800,62.51,2207.54,No
+3/29/2026,Fujian Xinda Plant,AKIJ-MONOWARA TRUST(Akij venture),"Nayadingi,Saturia,Manikganj",23.86384,90.011617,4000,87.65,3095.36,Yes
+3/29/2026,Fujian Xinda Plant,Accurate Assets Holdings Limited,Uttara,23.875155,90.381152,6000,44.92,1586.35,Yes
+3/29/2026,Fujian Xinda Plant,Bandhon Nibash,Dieabari,23.851069,90.35459,4350,44.04,1555.27,No
+3/29/2026,Fujian Xinda Plant,Deshar Works Ltd,Gabtoli,23.790871,90.334109,5800,78.05,2756.34,Yes
+3/29/2026,Fujian Xinda Plant,Md Alamgir Hossain,Dieabari,23.852244,90.355007,4350,9.27,327.37,No
+3/29/2026,Fujian Xinda Plant,Orchid & Textile Ltd,Ashulia,23.909297,90.265646,5800,12.84,453.44,No
+3/29/2026,Schwing Stetter Plant,Ayesha Clothing co.Ltd,Ashulia,23.910199,90.264662,6000,73.69,2602.36,No
+3/29/2026,Schwing Stetter Plant,Bondhon Nibash,Dieabari,23.851784,90.355511,4000,36.53,1290.06,Yes
+3/29/2026,Schwing Stetter Plant,Nassa Holding Ltd,Gulshan,23.792063,90.41277,6000,48.64,1717.72,Yes
+3/29/2026,Schwing Stetter Plant,Osman Ali,Uttara,23.875087,90.379276,5800,7.79,275.1,Yes
+3/29/2026,Schwing Stetter Plant,P2P Engineering & construction Ltd,"Khagan, Ashulia",23.880465,90.282505,3500,20.09,709.48,No
+3/29/2026,Schwing Stetter Plant,Rising Design Ltd,Mirpur,23.821607,90.364644,3500,109.85,3879.35,No
+3/29/2026,Schwing Stetter Plant,SWADESH ABASON,Dieabari,23.851463,90.355955,3500,62.25,2198.36,Yes
+3/30/2026,Fujian Xinda Plant, Rangs Properties Ltd.,Farmgate,23.854601,90.356862,5000,21.55,761.04,No
+3/30/2026,Fujian Xinda Plant,Anisha Enterprise,Mirpur,23.822479,90.362186,4500,106.29,3753.63,No
+3/30/2026,Fujian Xinda Plant,Aries Securities Limited,Gulshan,23.792851,90.41218,4000,95.49,3372.23,No
+3/30/2026,Fujian Xinda Plant,Arkay Knit Dyeing Mills Ltd,Ashulia,23.911077,90.267554,4350,87.85,3102.42,Yes
+3/30/2026,Fujian Xinda Plant,Green Dot Limited,Ashulia,23.907992,90.270485,4000,84.36,2979.17,No
+3/30/2026,Fujian Xinda Plant,Md Irfan Khan,Uttara,23.874378,90.379256,5000,8.91,314.66,Yes
+3/30/2026,Fujian Xinda Plant,Osman Ali,Uttara,23.8758,90.379739,5800,8.68,306.53,Yes
+3/30/2026,Fujian Xinda Plant,Vertex Wear Ltd,Ashulia,23.9118,90.268062,4000,9.81,346.44,Yes
+3/30/2026,Schwing Stetter Plant,A- Z Bangladesh,Ashulia,23.909854,90.270394,5000,6.23,220.01,No
+3/30/2026,Schwing Stetter Plant,Anik Trading,Tongi,23.894799,90.405511,5000,28.03,989.88,Yes
+3/30/2026,Schwing Stetter Plant,Ebrahim & Brothers ,Tongi,23.894242,90.405265,4000,44.22,1561.63,No
+3/30/2026,Schwing Stetter Plant,MA Jobber,Ashulia,23.908776,90.265957,3000,4.44,156.8,No
+3/30/2026,Schwing Stetter Plant,Priyoprangon,Mirpur,23.82013,90.36295,4350,27.63,975.75,No
+3/30/2026,Schwing Stetter Plant,Shanta Holdings Ltd,Shanta shalmoli Dhanmondi project,23.76451,90.359332,3500,18.26,644.85,Yes
+3/31/2026,Fujian Xinda Plant,Abdul Hasan,Mirpur,23.814942,90.360866,4350,6.12,216.13,Yes
+3/31/2026,Fujian Xinda Plant,Amin Mohammad,Uttara,23.875118,90.379584,4000,66.05,2332.56,Yes
+3/31/2026,Fujian Xinda Plant,Ayesha Clothing co.Ltd,Ashulia,23.910041,90.264772,6000,8.34,294.53,Yes
+3/31/2026,Fujian Xinda Plant,Dream House,Dianmondi,23.745579,90.375125,4000,92.93,3281.82,Yes
+3/31/2026,Fujian Xinda Plant,Ebrahim & Brothers ,Tongi,23.894498,90.405371,3000,11.36,401.18,Yes
+3/31/2026,Fujian Xinda Plant,GLG Assets Ltd,"Uttara, Sector 4",23.876032,90.379769,5000,5.26,185.76,No
+3/31/2026,Fujian Xinda Plant,Hossain builders(Shopnochoa tower),Mirpur,23.810048,90.357689,4500,67.49,2383.41,No
+3/31/2026,Fujian Xinda Plant,M/S SR Trading,Ashulia,23.909923,90.265488,3500,3.23,114.07,No
+3/31/2026,Fujian Xinda Plant,Nabid Petroleum Co.Limited,Kawla,23.859905,90.390407,4000,71.94,2540.56,Yes
+3/31/2026,Fujian Xinda Plant,Nafiz Enterprise,Uttara,23.874639,90.377699,4000,13.65,482.05,No
+3/31/2026,Fujian Xinda Plant,Next Spaces Limited,Bashundhara,23.814895,90.435388,5000,102.35,3614.49,No
+3/31/2026,Fujian Xinda Plant,Nortex Textile Mills Ltd,"Nikunja-1, Dhaka",23.834215,90.420227,4500,20.27,715.84,Yes
+3/31/2026,Fujian Xinda Plant,ST Enterprise,Tongi,23.894231,90.405539,5000,38.22,1349.74,Yes
+3/31/2026,Schwing Stetter Plant,A- Z Bangladesh,Ashulia,23.910136,90.270064,5000,37.38,1320.07,Yes
+3/31/2026,Schwing Stetter Plant,Asset Development Ltd,Gulshan,23.793154,90.412425,3500,102.07,3604.6,No
+3/31/2026,Schwing Stetter Plant,Dehsar Works,Gabtoli,23.791475,90.333747,5800,14.93,527.25,Yes
+3/31/2026,Schwing Stetter Plant,JFA Enterprise Ltd,Mirpur,23.821071,90.36447,3500,5.31,187.52,No
+3/31/2026,Schwing Stetter Plant,Orchid and Textile Tower,Ashulia,23.909103,90.264064,5800,34.2,1207.77,No
+3/31/2026,Schwing Stetter Plant,P2P Engineering & construction Ltd,"Khagan, Ashulia",23.879508,90.283422,4000,31.7,1119.49,Yes
+3/31/2026,Schwing Stetter Plant,Prince Business Center,"Banani, Dhaka",23.793781,90.403312,5800,52.95,1869.93,No
